@@ -10,6 +10,6 @@ for (let char of sentence) {
 setTimeout(() => {
   console.log()
 }, finish)
-setTimeout(() => {
-  console.log(x)
-}, finish)
+// setTimeout(() => {
+//   console.log(x)
+// }, finish)
